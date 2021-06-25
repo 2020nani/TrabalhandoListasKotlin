@@ -4,8 +4,5 @@ import br.com.alura.array.testes.*
 
 
 fun main() {
-
-    usaPrateleira()
-
+    associacaoCollection()
 }
-

@@ -37,6 +37,7 @@ fun trabalhandoComListas() {
     //map retorna outra lista
     val titulos : List<String> = livros.map{it.titulo}
     println(titulos)
+
 }
 
 fun List<Livro>.imprimeFormatado() {
