@@ -1,8 +1,8 @@
 package br.com.alura.array
 
-import br.com.alura.array.testes.*
+import br.com.alura.array.testesParadigmaFuncional.*
 
 
 fun main() {
-    associacaoCollection()
+    scopeFunctions()
 }
